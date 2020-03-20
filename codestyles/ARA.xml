@@ -28,6 +28,7 @@
     </extensions>
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />

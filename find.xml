@@ -7,8 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex" />
     <mask>*.xml</mask>
     <mask>*.cp</mask>
     <mask>*.inl</mask>
@@ -38,5 +37,6 @@
     <mask>*.cpp, *.c, *.h, CMakeLists.txt,</mask>
     <mask>*.cpp, *.c, *.h, CMakeLists.txt,*md</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md</mask>
+    <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex</mask>
   </component>
 </application>

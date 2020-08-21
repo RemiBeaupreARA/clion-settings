@@ -3,12 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake" />
-    <mask>*.inl</mask>
+    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md" />
     <mask>*.ino</mask>
     <mask>*.pch</mask>
     <mask>*.c++</mask>
@@ -38,5 +39,6 @@
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex</mask>
     <mask>*.cmake</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake</mask>
+    <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md</mask>
   </component>
 </application>

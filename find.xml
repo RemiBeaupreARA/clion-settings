@@ -9,7 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmake,CMakeLists.txt" />
+    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls" />
     <mask>*.ipp</mask>
     <mask>*.h++</mask>
     <mask>*.c</mask>
@@ -38,7 +38,7 @@
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md</mask>
     <mask>*.tex</mask>
     <mask>*.cpp, *.h</mask>
-    <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls</mask>
     <mask>*.cmake,CMakeLists.txt</mask>
+    <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls</mask>
   </component>
 </application>

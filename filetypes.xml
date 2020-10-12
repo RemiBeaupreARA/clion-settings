@@ -9,6 +9,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="ld" type="PLAIN_TEXT" />
+      <mapping ext="tex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

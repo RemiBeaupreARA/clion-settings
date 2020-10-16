@@ -1,5 +1,5 @@
 <application>
   <component name="EmbeddedDevelopment">
-    <option name="stm32CubeMXLocation" value="" />
+    <option name="stm32CubeMXLocation" value="/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX/STM32CubeMX" />
   </component>
 </application>

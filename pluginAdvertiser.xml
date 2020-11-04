@@ -65,6 +65,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bbx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.bib">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -110,6 +126,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cls">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cmake">
           <value>
             <plugin>
@@ -152,6 +176,14 @@
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.dbx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
             </plugin>
           </value>
         </entry>
@@ -322,6 +354,14 @@
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.glstex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
             </plugin>
           </value>
         </entry>
@@ -991,6 +1031,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sty">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.styl">
           <value>
             <plugin>
@@ -1018,6 +1066,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tex">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tga">
           <value>
             <plugin>
@@ -1042,6 +1098,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tikz">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
             </plugin>
           </value>
         </entry>

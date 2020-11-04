@@ -1527,6 +1527,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="biblatex.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="nl.rubensten.texifyidea" />
+              <option name="myPluginName" value="TeXiFy IDEA" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bowerrc">
           <value>
             <plugin>
@@ -1610,6 +1618,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="BIBTEX_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="BibTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
+                    </value>
+                  </entry>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" />
@@ -1708,6 +1721,16 @@
                   <entry key="JavascriptDebugType">
                     <value>
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="LATEX_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="LaTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
+                    </value>
+                  </entry>
+                  <entry key="MAKEINDEX_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makeindex" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
                   <entry key="NodeWebKit">

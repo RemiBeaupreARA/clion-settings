@@ -1635,7 +1635,7 @@
                   </entry>
                   <entry key="CLion_CoreDump">
                     <value>
-                      <FeaturePluginData displayName="Core Dump Debug" pluginName="IDEA CORE" pluginId="com.intellij" />
+                      <FeaturePluginData displayName="Core Dump Debug" pluginName="CLion IDE" pluginId="com.intellij.clion" />
                     </value>
                   </entry>
                   <entry key="CLion_Remote">

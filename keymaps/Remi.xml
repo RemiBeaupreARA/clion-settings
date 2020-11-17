@@ -98,7 +98,6 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
-  <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="linessorter.sort">
     <keyboard-shortcut first-keystroke="shift ctrl u" />

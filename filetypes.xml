@@ -6,15 +6,11 @@
       <mapping pattern="parser" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="slx" type="PLAIN_TEXT" />
-      <mapping ext="geom" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="uavcan" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
-      <mapping ext="glsl" type="PLAIN_TEXT" />
-      <mapping ext="vert" type="PLAIN_TEXT" />
       <mapping ext="ld" type="PLAIN_TEXT" />
-      <mapping ext="frag" type="PLAIN_TEXT" />
       <removed_mapping ext="tex" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

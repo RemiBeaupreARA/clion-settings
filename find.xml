@@ -7,8 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex" />
-    <mask>*.c</mask>
+    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl" />
     <mask>*.h</mask>
     <mask>*.i</mask>
     <mask>*.m</mask>
@@ -38,5 +37,6 @@
     <mask>*.cmake, CMakeLists.txt</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex</mask>
+    <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl</mask>
   </component>
 </application>

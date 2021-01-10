@@ -11,6 +11,7 @@
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
       <mapping ext="ld" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <removed_mapping ext="tex" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

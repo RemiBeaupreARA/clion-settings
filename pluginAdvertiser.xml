@@ -117,6 +117,11 @@
                       <FeaturePluginData displayName="LaTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="MAKEINDEX_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="Makeindex" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />

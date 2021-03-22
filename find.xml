@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl, *.geom, *,frag, *.vert" />
+    <option name="FILE_MASK" value="*.tex" />
     <mask>*.i</mask>
     <mask>*.m</mask>
     <mask>*.cxx</mask>
@@ -32,11 +32,11 @@
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md</mask>
     <mask>*.cpp, *.h</mask>
     <mask>*.cmake,CMakeLists.txt</mask>
-    <mask>*.tex</mask>
     <mask>*.cmake, CMakeLists.txt</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl, *.geom, *,frag, *.vert</mask>
+    <mask>*.tex</mask>
   </component>
 </application>

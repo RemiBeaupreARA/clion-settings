@@ -10,7 +10,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl, *.geom, *,frag, *.vert" />
-    <mask>*.i</mask>
     <mask>*.m</mask>
     <mask>*.cxx</mask>
     <mask>*.hh</mask>
@@ -39,6 +38,7 @@
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl</mask>
     <mask>*.tex</mask>
+    <mask>CMakeLists.txt</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl, *.geom, *,frag, *.vert</mask>
   </component>
 </application>

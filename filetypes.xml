@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="core" type="AUTO_DETECTED" />
       <mapping ext="drawio" type="Native" />
       <mapping ext="pcapng" type="Native" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />

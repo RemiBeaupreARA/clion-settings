@@ -5,8 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp" />
-    <mask>*.cxx</mask>
+    <option name="FILE_MASK" value="*.cpp, *.c, *.h,*.hpp,*.tex" />
     <mask>*.hh</mask>
     <mask>*.hp</mask>
     <mask>*.hxx</mask>
@@ -36,5 +35,6 @@
     <mask>CMakeLists.txt</mask>
     <mask>*.cpp, *.c, *.h,*.hpp, CMakeLists.txt,*md,*.tex,*.cmake,*.md,*.cls,*.tex,*.glsl, *.geom, *,frag, *.vert</mask>
     <mask>*.cpp, *.c, *.h,*.hpp</mask>
+    <mask>*.cpp, *.c, *.h,*.hpp,*.tex</mask>
   </component>
 </application>
